@@ -4,7 +4,7 @@ Currently one can create as many Pac-Man as possible, and once he or she hits st
 
 ## Installation
 
-Download the Zip file on this [link](https://github.com/tlswodnjs/Pac-Man_Factory/archive/refs/heads/main.zip)to modify or adjust the project.
+Download the Zip file on this [link](https://github.com/tlswodnjs/Pac-Man_Factory/archive/refs/heads/main.zip) to modify or adjust the project.
 
 ## Roadmap
 
